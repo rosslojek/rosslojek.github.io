@@ -1,0 +1,2 @@
+C:\Users\rossl\source\repos\rosslojek\rosslojek.github.io\personal_site_test\personal_site_test\obj\Debug\personal_site_test.esproj.SuggestedBindingRedirects.cache
+C:\Users\rossl\source\repos\rosslojek\rosslojek.github.io\personal_site_test\personal_site_test\obj\Debug\personal_site_test.esproj.CoreCompileInputs.cache
