@@ -1,5 +1,7 @@
 ﻿// Sample TypeScript code for basic functionality
 
+// This is a change to test if this script is doing anything
+
 // Example function to display a greeting
 function greet(name: string) {
     console.log(`Hello, ${name}!`);
