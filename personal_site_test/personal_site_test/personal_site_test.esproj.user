@@ -7,7 +7,7 @@
   "type": "chrome",
   "request": "launch",
   "url": "http://localhost:3000",
-  "webRoot": "C:\\Users\\rossl\\source\\repos\\rosslojek\\rosslojek.github.io\\personal_site_test\\personal_site_test"
+  "webRoot": "C:\\Users\\rossl\\Source\\Repos\\rosslojek\\rosslojek.github.io\\personal_site_test\\personal_site_test"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>

@@ -1,52 +1,51 @@
-<!--
-    <!DOCTYPE html>
-<html>
-    <body>
-        <h1>Hello World</h1>
-        <h2>Thank you for visiting my website. My name is Ross Lojek.</h2>
-        <button> This is a button</button>
-        <p>I'm hosted with GitHub Pages.</p>
-        <p>This has been updated. SRC line changed.</p>
-        <script src="/src/test_typescript.js"></script>
-    </body>
-</html>
--->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Website</title>
-    <style>
-        /* Your CSS styles here */
-    </style>
+    <title>Your Name - Personal Website</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
 </head>
 <body>
     <header>
-        <h1>Welcome to My Personal Website</h1>
-        <p>Discover more about me and my work</p>
+        <h1>Your Name</h1>
+        <p>Data Enthusiast | Researcher | Soccer Fan</p>
     </header>
-    <div class="container">
-        <h2>About Me</h2>
-        <p>
-            Hi, I'm [Your Name], and this is my personal website. I'm passionate about [Your Interests/Hobbies]. Feel free to explore my website and get to know me better.
-        </p>
 
-        <h2>My Projects</h2>
+    <nav>
         <ul>
-            <li><a href="project1.html">Project 1</a></li>
-            <li><a href="project2.html">Project 2</a></li>
-            <li><a href="project3.html">Project 3</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#research">Research</a></li>
+            <li><a href="#interests">Interests</a></li>
         </ul>
+    </nav>
 
-        <!-- Add a button and paragraph for dynamic content -->
-        <button id="changeTextButton">Change Text</button>
-        <p id="dynamicText">Click the button to change this text.</p>
-    </div>
+    <section id="about">
+        <h2>About Me</h2>
+        <div class="bio">
+            <p>I am a learner. I am passionate about using data to improve our understanding of problems and solutions, particularly as it relates to equity and sustainability. As a natural communicator, I am well suited to collaboration and presentation of findings. I have experience in data analysis, data visualization, econometrics, and business intelligence in R, Tableau, SQL, and Python, as well as programming experience in Python, Java, and C++.</p>
 
-    <!-- Include your TypeScript file -->
-    <script src="main.ts"></script>
+            <p>My research interests are on the intersection of labor markets and technology. How can we best leverage technology to improve social welfare? My highlighted work below, titled, “The Logistic Marginal Farebox,” is an example of this research.</p>
+
+            <p>In my free time, I enjoy spending time with friends and family, when I am not either playing or watching soccer. When asked, I tell people my favorite team is Crystal Palace, but I really just enjoy watching the passion, creativity, and cultural diversity of the game.</p>
+        </div>
+    </section>
+
+    <section id="research">
+        <h2>Research</h2>
+        <div class="research-item">
+            <h3>The Logistic Marginal Farebox</h3>
+            <p>Summary and details of your research can go here.</p>
+        </div>
+    </section>
+
+    <section id="interests">
+        <h2>Interests</h2>
+        <p>Here, you can mention more about your interests, hobbies, and anything else you'd like to share.</p>
+    </section>
+
+    <footer>
+        <p>Contact: your.email@example.com</p>
+    </footer>
 </body>
 </html>
-
