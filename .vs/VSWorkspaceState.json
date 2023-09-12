@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\personal_site_test",
+    "\\personal_site_test\\personal_site_test"
   ],
-  "SelectedNode": "\\test_typescript.ts",
+  "SelectedNode": "\\personal_site_test\\personal_site_test.sln",
   "PreviewInSolutionExplorer": false
 }

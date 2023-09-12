@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-styles",
+      "appliesTo": "personal_site_test/styles.css",
+      "type": "launch"
+    }
+  ]
+}
