@@ -30,6 +30,11 @@ section {
     padding: 20px;
 }
 
+/* Add space before paragraphs */
+p {
+    margin-bottom: 10px; /* Adjust the value as needed */
+}
+
 footer {
     background-color: #333;
     color: #fff;
