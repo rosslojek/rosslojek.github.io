@@ -39,6 +39,11 @@ p {
     margin-bottom: 20px; /* Adjust the margin as needed */
 }
 
+figcaption {
+    font-size: 14px;
+    color: #777;
+    text-align: right;
+}
 
 footer {
     background-color: #333;
