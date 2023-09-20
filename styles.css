@@ -45,6 +45,12 @@ figcaption {
     text-align: right;
 }
 
+.image-class {
+    width: auto;
+    height: 100px;
+}
+
+
 footer {
     background-color: #333;
     color: #fff;
