@@ -42,12 +42,12 @@ p {
 figcaption {
     font-size: 14px;
     color: #777;
-    text-align: right;
+    text-align: left;
 }
 
 .image-class {
     width: auto;
-    height: 100px;
+    height: 200px;
 }
 
 
