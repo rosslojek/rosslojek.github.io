@@ -18,12 +18,12 @@ header {
 nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 
 nav li {
     display: inline;
-    margin-right: 20px;
+    padding: 20px;
 }
 
 section {
@@ -43,11 +43,14 @@ figcaption {
     font-size: 14px;
     color: #777;
     text-align: left;
+    width: 100%;
+    padding 20px;
 }
 
 .image-class {
     width: auto;
     height: 200px;
+    padding: 20px;
 }
 
 
