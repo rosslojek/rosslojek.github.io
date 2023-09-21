@@ -17,13 +17,13 @@ header {
 
 nav ul {
     list-style-type: none;
-    margin: 0;
-    padding: 20px;
+    margin: 10px;
+    padding: 0;
 }
 
 nav li {
     display: inline;
-    padding: 20px;
+    margin: 10px;
 }
 
 section {
@@ -43,14 +43,12 @@ figcaption {
     font-size: 14px;
     color: #777;
     text-align: left;
-    width: 100%;
-    padding 20px;
 }
 
 .image-class {
     width: auto;
-    height: 200px;
-    padding: 20px;
+    height: 250px;
+    margin: 10px;
 }
 
 
