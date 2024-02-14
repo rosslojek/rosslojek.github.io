@@ -9,6 +9,7 @@ body {
     line-height: 1.6; /* Improve readability with increased line height */
     background-color: #f9f9f9; /* Light gray background */
     color: #333; /* Dark gray text color */
+    margin-right: 50px
 }
 
 header {
@@ -30,7 +31,7 @@ nav li {
 }
 
 section {
-    padding: 50px;
+    padding: 10px;
 }
 
 /* Add space before paragraphs */
