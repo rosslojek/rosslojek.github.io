@@ -51,7 +51,7 @@ img {
 }
 
 figcaption {
-    font-size: 16px; /* Increase font size for captions */
+    font-size: 12px; /* Increase font size for captions */
     color: #555; /* Dark gray caption color */
     text-align: left;
     margin: 0;
