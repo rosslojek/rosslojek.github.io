@@ -57,7 +57,7 @@ figcaption {
     text-align: left;
     margin: 0;
     padding: 0;
-    width: auto;
+    width: 100%;
 }
 
 .image-class {
