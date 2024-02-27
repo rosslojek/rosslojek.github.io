@@ -39,6 +39,10 @@ p {
     margin-bottom: 20px; /* Adjust the margin as needed */
 }
 
+figure {
+    display: table;
+}
+
 img {
     margin: 0;
     padding: 0;
@@ -46,12 +50,14 @@ img {
 }
 
 
- figcaption {
+figcaption {
     font-size: 14px;
     color: #777;
     text-align: left;
     margin: 0;
     padding: 0;
+    display: table-caption;
+    caption-side: bottom;
 }
 
 .image-class {
