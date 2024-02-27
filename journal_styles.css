@@ -44,6 +44,10 @@ p {
     margin-bottom: 30px; /* Increase margin between portfolio items */
 }
 
+figure {
+    display: table;
+}
+
 img {
     margin: 0;
     padding: 0;
@@ -58,6 +62,8 @@ figcaption {
     margin: 0;
     padding: 0;
     width: 100%;
+    display: table-caption;
+    caption-side: bottom;
 }
 
 .image-class {
