@@ -33,6 +33,7 @@ section {
 /* Add space before paragraphs */
 p {
     margin-top: 10px; /* Adjust the value as needed */
+    font-size: 14px;
 }
 
 .portfolio-item {
